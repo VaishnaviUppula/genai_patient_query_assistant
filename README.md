@@ -39,6 +39,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 streamlit run app.py
 
 ## 🗂️ Project Structure
+
 genai_patient_query_assistant/
 ├── app/
 │   ├── app.py               # Main Streamlit app entrypoint
@@ -49,6 +50,7 @@ genai_patient_query_assistant/
 ├── requirements.txt         # Python dependencies
 ├── .env                     # Environment variables (API keys, etc.)
 └── README.md                # Project documentation
+
 
 ## 💡 Usage
 Open your browser at http://localhost:8501 after running the app.
